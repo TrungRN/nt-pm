@@ -1,0 +1,18 @@
+{
+  "name": "nt-pm",
+  "version": "0.1.0",
+  "description": "Trợ lý Project Manager cho dự án phần mềm: phân tích yêu cầu, ước lượng man-day, nguồn lực theo từng người × sprint, timeline Hybrid, sprint, rủi ro, status report, change request, chuẩn bị họp — xuất kế hoạch dạng HTML chỉnh sửa được.",
+  "author": {
+    "name": "TrungRN"
+  },
+  "keywords": [
+    "project-management",
+    "pm",
+    "sprint",
+    "planning",
+    "vietnamese"
+  ],
+  "homepage": "https://github.com/TrungRN/nt-pm",
+  "repository": "https://github.com/TrungRN/nt-pm",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "trungrn-plugins",
+  "description": "Plugin trợ lý Project Manager (tiếng Việt) cho Claude",
+  "owner": {
+    "name": "TrungRN"
+  },
+  "plugins": [
+    {
+      "name": "nt-pm",
+      "source": "./plugins/nt-pm",
+      "description": "Trợ lý PM: phân tích yêu cầu, ước lượng man-day, nguồn lực theo người × sprint, timeline, rủi ro, status report, change request, chuẩn bị họp — xuất kế hoạch HTML chỉnh sửa được."
+    }
+  ]
+}
